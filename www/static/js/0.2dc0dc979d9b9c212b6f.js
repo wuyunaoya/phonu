@@ -1,0 +1,2 @@
+webpackJsonp([0],{wliq:function(e,n,s){"use strict";s.d(n,"a",function(){return u}),s.d(n,"b",function(){return a});var t=new(s("7+uW").default),u=function(e){t.$message({message:e,type:"success"})},a=function(e){t.$message({message:e,type:"warning"})}}});
+//# sourceMappingURL=0.2dc0dc979d9b9c212b6f.js.map

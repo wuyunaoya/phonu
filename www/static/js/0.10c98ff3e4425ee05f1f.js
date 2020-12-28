@@ -1,0 +1,2 @@
+webpackJsonp([0],{BGi1:function(e,s,n){"use strict";n.d(s,"a",function(){return u}),n.d(s,"b",function(){return o});var t=new(n("7+uW").default),u=function(e){t.$message({showClose:!0,message:e,type:"success"})},o=function(e){t.$message({showClose:!0,message:e,type:"warning"})}}});
+//# sourceMappingURL=0.10c98ff3e4425ee05f1f.js.map

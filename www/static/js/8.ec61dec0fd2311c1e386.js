@@ -1,0 +1,2 @@
+webpackJsonp([8],{"4Zld":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("seckill")])},staticRenderFns:[]};var i=n("VU/8")({},r,!1,function(e){n("ByNU")},null,null);t.default=i.exports},ByNU:function(e,t){}});
+//# sourceMappingURL=8.ec61dec0fd2311c1e386.js.map
